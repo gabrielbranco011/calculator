@@ -1,4 +1,4 @@
-# Calculator
+# Calculator light and dark mode
 
 This project was developed with the following technologies:
 
